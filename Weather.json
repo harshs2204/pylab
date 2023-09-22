@@ -1,0 +1,11 @@
+{
+"weather":[
+{
+"description":"Clear sky"
+}]
+,
+"main":{
+"temp":15.45,
+"humidity":64
+}
+}
